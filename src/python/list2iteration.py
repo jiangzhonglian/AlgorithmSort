@@ -5,7 +5,6 @@
 递归使用的是选择结构。
 '''
 
-
 # 递归求解
 def calculate(l):
     if len(l) <= 1:
