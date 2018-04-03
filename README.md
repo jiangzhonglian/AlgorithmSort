@@ -11,5 +11,3 @@ l2=[4,5]
 求： calculate(l1)+calculate(l2) ＝ 168
 其中，各个数组很大，无法直接加载到内存中
 ```
-
-[代码地址](src/python/list2iteration.py): <https://github.com/jiangzhonglian/interview/blob/master/src/python/list2iteration.py> 
